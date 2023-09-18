@@ -16,7 +16,7 @@ You can view the live preview of the catalog landing page here [DEMO LINK](https
 
 **Design Mockup**
 
-Check out the design mockup for the landing page here. [MOCKUP LINK](https://www.figma.com/file/ojkArVazq7vsX0nbpn9CxZ/Moyo-%2F-Catalog-(ENG)?type=design&mode=design).
+Check out the design mockup for the landing page here. [MOCKUP LINK](https://www.figma.com/file/ojkArVazq7vsX0nbpn9CxZ/Moyo-%2F-Catalog-(ENG)?type=design&node-id=32249-354&mode=design).
 
 **Additional Setup Instructions**
 
